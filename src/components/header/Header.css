@@ -11,6 +11,13 @@
 img{
     object-fit: cover;
 }
+h3{
+    font-size: 1.3em;
+    font-weight: 800;
+}
+h2{
+    font-size: 2.6em;
+}
 .me{
     background: linear-gradient(var(--color-primary), transparent);
     width: 20rem;
