@@ -13,23 +13,23 @@ export default function Portfolio() {
     {
       id: 1,
       image: IMG1,
-      title: 'Crypto Currency Dashboard',
-      github: 'http://github.com',
-      demo: 'https://dribbble.com/Alien_pixels'
+      title: 'Huddle Landing page',
+      github: 'https://github.com/Carolkiarie/landing-page',
+      demo: 'https://carolkiarie.github.io/landing-page/'
     },
     {
       id: 2,
       image: IMG2,
-      title: 'Crypto Currency Dashboard',
-      github: 'http://github.com',
-      demo: 'https://dribbble.com/Alien_pixels'
+      title: 'Random-Advice-Generator',
+      github: 'https://github.com/Carolkiarie/advice-generator-app',
+      demo: 'https://carolkiarie.github.io/advice-generator-app/'
     },
     {
       id: 3,
       image: IMG3,
-      title: 'Crypto Currency Dashboard',
-      github: 'http://github.com',
-      demo: 'https://dribbble.com/Alien_pixels'
+      title: 'News-Homepage',
+      github: 'https://github.com/Carolkiarie/news-homepage-main',
+      demo: 'https://carolkiarie.github.io/news-homepage-main/'
     },
     {
       id: 4,

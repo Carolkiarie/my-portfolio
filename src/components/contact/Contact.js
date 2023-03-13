@@ -32,22 +32,22 @@ export default function Contact() {
           <article className="contact__option">
             <MdOutlineEmail className='contact__option-icon' />
             <h4>Email</h4>
-            <h5>tutorial@gmail.com</h5>
-            <a href="mailto:tutorial@gmail.com">Send a message</a>
+            <h5>wairimucarolk@gmail.com</h5>
+            <a href="mailto:wairimucarolk@gmail.com">Send a message</a>
           </article>
 
           <article className="contact__option">
             <RiMessengerFill className='contact__option-icon' />
             <h4>Messenger</h4>
-            <h5>Name</h5>
+            <h5>@carolkiarie</h5>
             <a href="http://m.me/name" rel='noreferrer' target='_blank'>Send a message</a>
           </article>
 
           <article className="contact__option">
             <BsWhatsapp className='contact__option-icon' />
             <h4>Whatsapp</h4>
-            <h5>+123456789</h5>
-            <a href="http://api.whatsapp.com/send?phone+123456789" rel='noreferrer' target='_blank'>Send a message</a>
+            <h5>+4917634528323</h5>
+            <a href="http://api.whatsapp.com/send?phone+4917634528323" rel='noreferrer' target='_blank'>Send a message</a>
           </article>
         </div>
 

@@ -45,7 +45,8 @@ export default function about() {
           stunning websites that deliver unparalled user experience.
           My knowledge in HTML, CSS ,Javascript and React, combined with proficiency 
           in libraries such as Bootstrap allows me to create 
-          dynamic and interactive designs.
+          dynamic and interactive designs. I have experience with version control systems 
+          such as Git and strong problem-solving, debugging and troubleshooting skills
         </p>
 
         <a href="#contact" className='btn btn-primary'>Let's Talk</a>

@@ -6,7 +6,7 @@ export default function Cta() {
     <div className='cta'>
         {/* change the use of anchor tags to links */}
     <a href='' className='btn'>Download CV</a>
-    <a href='' className='btn'>Lets talk</a>
+    <a href='#contact' className='btn'>Lets talk</a>
     </div>
   )
 }

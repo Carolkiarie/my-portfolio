@@ -6,7 +6,7 @@ import Socials from '../headerSocials/Socials'
 
 export default function Header() {
   return (
-   <div className='header'>
+   <div id='header'>
     <div className='header_container'>
     <h5>Hello I'm</h5>
     <h1>Caroline Kiarie</h1>
