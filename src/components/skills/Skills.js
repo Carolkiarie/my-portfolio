@@ -47,20 +47,20 @@ export default function Skills() {
             <article className='experience__details'>
               <BsPatchCheckFill className='experience__details-icon' />
               <div>
-                <h4>Angular</h4>
+                <h4>Typescript</h4>
                 <small className='text-light'>Basics</small>
               </div>
             </article>
           </div>
         </div>
 
-        {/* <div className="experience__backend">
-          <h3>Backend Development</h3>
+         <div className="experience__backend">
+          <h3>Other Skills</h3>
           <div className="experience__content">
             <article className='experience__details'>
               <BsPatchCheckFill className='experience__details-icon' />
               <div>
-                <h4>Node JS</h4>
+                <h4>WordPress</h4>
                 <small className='text-light'>Intermediate</small>
               </div>
             </article>
@@ -68,23 +68,7 @@ export default function Skills() {
             <article className='experience__details'>
               <BsPatchCheckFill className='experience__details-icon' />
               <div>
-                <h4>MongoDB</h4>
-                <small className='text-light'>Basics</small>
-              </div>
-            </article>
-
-            <article className='experience__details'>
-              <BsPatchCheckFill className='experience__details-icon' />
-              <div>
-                <h4>PHP</h4>
-                <small className='text-light'>Basics</small>
-              </div>
-            </article>
-
-            <article className='experience__details'>
-              <BsPatchCheckFill className='experience__details-icon' />
-              <div>
-                <h4>MySQL</h4>
+                <h4>Firebase</h4>
                 <small className='text-light'>Intermediate</small>
               </div>
             </article>
@@ -92,12 +76,28 @@ export default function Skills() {
             <article className='experience__details'>
               <BsPatchCheckFill className='experience__details-icon' />
               <div>
-                <h4>Python</h4>
+                <h4>Adobe photoshop</h4>
+                <small className='text-light'>Intermediate</small>
+              </div>
+            </article>
+
+            <article className='experience__details'>
+              <BsPatchCheckFill className='experience__details-icon' />
+              <div>
+                <h4>Figma</h4>
+                <small className='text-light'>Intermediate</small>
+              </div>
+            </article>
+
+            <article className='experience__details'>
+              <BsPatchCheckFill className='experience__details-icon' />
+              <div>
+                <h4>Version Control system such as Git</h4>
                 <small className='text-light'>Intermediate</small>
               </div>
             </article>
           </div>
-        </div> */}
+        </div> 
       </div>
     </section>
   )

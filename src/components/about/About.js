@@ -41,7 +41,11 @@ export default function about() {
         </div> */}
 
         <p>
-          Lorem ipsum dolor sit amet consectetur adipisicing elit. Excepturi porro est quaerat deleniti? Voluptatibus labore minus, soluta quas adipisci nisi quam debitis quos eius optio.
+          I am passionate frontend developer who specializes in creating visually
+          stunning websites that deliver unparalled user experience.
+          My knowledge in HTML, CSS ,Javascript and React, combined with proficiency 
+          in libraries such as Bootstrap allows me to create 
+          dynamic and interactive designs.
         </p>
 
         <a href="#contact" className='btn btn-primary'>Let's Talk</a>
