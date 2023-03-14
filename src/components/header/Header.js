@@ -6,7 +6,7 @@ import Socials from '../headerSocials/Socials'
 import Typed from "react-typed";
 
 export default function Header() {
-  const transition = { duration: 3, type: "spring" };
+  
   return (
    <div id='header'>
     <div className='header_container'>
@@ -27,10 +27,10 @@ export default function Header() {
     <Cta/>
     <Socials/>
     <div className='me'>
-    <img src= {Image}/>
+    <img src= {Image} alt="website"/>
     </div>
-{/* change this to links */}
-    <a href='' className='scroll_down'>Scroll down</a>
+
+    <a href='/footer' className='scroll_down'>Scroll down</a>
 
     </div>
    </div>

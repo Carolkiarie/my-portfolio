@@ -13,7 +13,7 @@ export default function Nav() {
 
   return (
       <nav>
-      <a href="/#header" onClick={() => setActiveNav('#header')} className= {activeNav === '#' ? 'active' : ''}><AiOutlineHome/></a>
+      <a href="#header" onClick={() => setActiveNav('#header')} className= {activeNav === '#' ? 'active' : ''}><AiOutlineHome/></a>
       <a href="#about" onClick={() => setActiveNav('#about')} className= {activeNav === '#about' ? 'active' : ''}><AiOutlineUser/></a>
       <a href="#experience"onClick={() => setActiveNav('#experience')} className= {activeNav === '#experience' ? 'active' : ''}><BiBook/></a>
       <a href="#services" onClick={() => setActiveNav('#services')} className= {activeNav === '#services' ? 'active' : ''}><RiServiceLine/></a>
