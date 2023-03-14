@@ -27,7 +27,7 @@ export default function Header() {
     <Cta/>
     <Socials/>
     <div className='me'>
-    <img src= {Image} alt="website"/>
+    <img className='me1' src= {Image} alt="website"/>
     </div>
 
     <a href='/footer' className='scroll_down'>Scroll down</a>

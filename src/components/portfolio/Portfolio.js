@@ -3,8 +3,7 @@ import IMG1 from '../assets/portfolio1.jpg'
 import IMG2 from '../assets/portfolio2.jpg'
 import IMG3 from '../assets/portfolio3.jpg'
 import IMG4 from '../assets/portfolio4.jpg'
-import IMG5 from '../assets/portfolio5.png'
-import IMG6 from '../assets/portfolio6.jpg'
+import IMG5 from '../assets/portfolio5.jpg'
 import '../portfolio/Portfolio.css'
 
 
@@ -14,44 +13,38 @@ export default function Portfolio() {
       id: 1,
       image: IMG1,
       title: 'Huddle Landing page',
-      github: 'https://github.com/Carolkiarie/landing-page',
-      demo: 'https://carolkiarie.github.io/landing-page/'
+      github: 'https://github.com/Carolkiarie/interactive-card-details-form',
+      demo: 'https://carolkiarie.github.io/interactive-card-details-form/'
     },
     {
       id: 2,
       image: IMG2,
-      title: 'Random-Advice-Generator',
-      github: 'https://github.com/Carolkiarie/advice-generator-app',
-      demo: 'https://carolkiarie.github.io/advice-generator-app/'
+      title: 'Interactive rating component card',
+      github: 'https://github.com/Carolkiarie/interactive-rating',
+      demo: 'https://carolkiarie.github.io/interactive-rating/'
     },
     {
       id: 3,
       image: IMG3,
-      title: 'News-Homepage',
-      github: 'https://github.com/Carolkiarie/news-homepage-main',
-      demo: 'https://carolkiarie.github.io/news-homepage-main/'
+      title: 'Random advice generator',
+      github: 'https://github.com/Carolkiarie/advice-generator-app',
+      demo: 'https://carolkiarie.github.io/advice-generator-app/'
     },
     {
       id: 4,
       image: IMG4,
-      title: 'Crypto Currency Dashboard',
-      github: 'http://github.com',
-      demo: 'https://dribbble.com/Alien_pixels'
+      title: 'Intro component with signup form',
+      github: 'https://github.com/Carolkiarie/intro-component',
+      demo: 'https://carolkiarie.github.io/intro-component/'
     },
     {
       id: 5,
       image: IMG5,
-      title: 'Crypto Currency Dashboard',
-      github: 'http://github.com',
-      demo: 'https://dribbble.com/Alien_pixels'
+      title: 'News homepage',
+      github: 'https://github.com/Carolkiarie/news-homepage-main',
+      demo: 'https://carolkiarie.github.io/news-homepage-main/'
     },
-    {
-      id: 6,
-      image: IMG6,
-      title: 'Crypto Currency Dashboard',
-      github: 'http://github.com',
-      demo: 'https://dribbble.com/Alien_pixels'
-    },
+    
   ]
   return (
     <section id='portfolio'>
